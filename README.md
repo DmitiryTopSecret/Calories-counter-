@@ -1,2 +1,0 @@
-# Dmitriy
-ftnss
