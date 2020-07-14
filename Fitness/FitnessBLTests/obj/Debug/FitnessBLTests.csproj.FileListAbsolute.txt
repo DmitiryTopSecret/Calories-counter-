@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\FitnessBLTests.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\FitnessBLTests.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\FitnessBL.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\FitnessBL.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\obj\Debug\FitnessBLTests.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\obj\Debug\FitnessBLTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\obj\Debug\FitnessBLTests.csproj.CopyComplete
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\obj\Debug\FitnessBLTests.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBLTests\obj\Debug\FitnessBLTests.pdb
