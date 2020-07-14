@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\bin\Debug\FitnessBL.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\bin\Debug\FitnessBL.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\obj\Debug\FitnessBL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\obj\Debug\FitnessBL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\obj\Debug\FitnessBL.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessBL\obj\Debug\FitnessBL.pdb

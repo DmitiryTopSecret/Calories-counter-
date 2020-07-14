@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace FitnessBL.Model
 {
-     public class User
+    [Serializable]
+    public class User
     {
         #region Propperties
         public string Name { get; }
-        public Gender Gender { get; }
+        public Gender Gender { get; set; }
 
-        public DateTime BirthDate { get; }
+        public DateTime BirthDate { get; set; }
 
         public double Weight { get; set; }
 
         public double Height { get; set; }
+
+        public int Age { get { return DateTime.Now.Year - BirthDate.Year; } }
         #endregion
         public User(string name,
                     Gender gender,
@@ -58,9 +61,19 @@ namespace FitnessBL.Model
             Height = height;
         }
 
+        public User(string name)
+        {
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentNullException("Name can't eb empty!", nameof(name));
+            }
+
+            Name = name;
+        }
+
         public override string ToString()
         {
-            return Name;
+            return Name + " " + Age;
         }
     }
 }

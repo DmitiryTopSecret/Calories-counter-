@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\FitnessCMD.exe.config
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\FitnessCMD.exe
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\FitnessCMD.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\FitnessBL.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\FitnessBL.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.csproj.CopyComplete
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.exe
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.pdb
