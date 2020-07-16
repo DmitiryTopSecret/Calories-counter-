@@ -10,3 +10,11 @@ C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.exe
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.pdb
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\System.ValueTuple.dll
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.Languages.Messages.resources
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\ru-ru\FitnessCMD.resources.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\en-us\FitnessCMD.resources.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.Languages.Messages.ru-ru.resources
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.Languages.Messages.en-us.resources
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\ru-ru\FitnessCMD.resources.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\en-us\FitnessCMD.resources.dll

@@ -2,7 +2,9 @@
 using FitnessBL.Model;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Resources;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,9 +14,12 @@ namespace FitnessCMD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Greetings! This is an application for counting callories, called FITNESS");
+            var culture = CultureInfo.CreateSpecificCulture("ru-ru");
+            var resourceManager = new ResourceManager("FitnessCMD.Languages.Messages", typeof(Program).Assembly);
+
+            Console.WriteLine(resourceManager.GetString("Hello", culture));
             
-            Console.WriteLine("Enter a User Name: ");
+            Console.WriteLine(resourceManager.GetString("EnterName", culture));
             var name = Console.ReadLine();
 
             var userController = new UserController(name);
