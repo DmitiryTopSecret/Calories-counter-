@@ -9,8 +9,10 @@ using System.Threading.Tasks;
 
 namespace FitnessBL.Controller
 {
-    public class UserController
+    public class UserController : ControllerBase
     {
+
+        private const string USER_FILE_NAME = "users.dat";
         public List<User> Users { get; }
 
         public User CurrentUser { get; }
@@ -36,23 +38,9 @@ namespace FitnessBL.Controller
                 Save();
             }
         }
-        private List<User> GetUsersData()  // DEserrialization, get user's data
+        private List<User> GetUsersData()
         {
-            var formatter = new BinaryFormatter();
-
-            using (var fs = new FileStream("users.dat", FileMode.OpenOrCreate))
-            {
-                
-                if (fs.Length > 0 && formatter.Deserialize(fs) is List<User> users)
-                {
-                    return users;
-                }
-                else
-                {
-                    return new List<User>();
-                }
-            }
-            return null;
+            return Load<List<User>>(USER_FILE_NAME) ?? new List<User>();
         }
 
         public void SetNewUserData(string genderName, DateTime birthDate, double weight = 1, double height = 1)
@@ -66,16 +54,9 @@ namespace FitnessBL.Controller
             Save();
         }
 
-        public void Save()     // Serrialization, save user's data
+        public void Save()  
         {
-            var formatter = new BinaryFormatter();
-
-            using (var fs = new FileStream("users.dat", FileMode.OpenOrCreate))
-            {
-                formatter.Serialize(fs, Users);
-            }
-        }
-
-      
+            Save(USER_FILE_NAME, Users);           
+        }     
     }
 }

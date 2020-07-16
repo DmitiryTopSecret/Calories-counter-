@@ -8,3 +8,5 @@ C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.cspr
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.csproj.CopyComplete
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.exe
 C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\obj\Debug\FitnessCMD.pdb
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\Dmitriy\Fitness\FitnessCMD\bin\Debug\System.ValueTuple.xml
